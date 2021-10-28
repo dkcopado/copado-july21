@@ -322,6 +322,17 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Field__c</fullName>
+        <description>Test for package.xml / gitignore for iRobot</description>
+        <externalId>false</externalId>
+        <label>Test Field</label>
+        <length>64</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
